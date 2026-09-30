@@ -207,4 +207,4 @@ Extra 1X2 is provided as a full free version, with all features and updates incl
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-30 06:30:45 UTC
+**Last updated:** 2026-09-30 13:31:09 UTC
